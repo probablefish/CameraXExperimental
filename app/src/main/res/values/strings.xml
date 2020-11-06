@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraXExperimental</string>
+    <string name="camera_preview_title">Camera Preview</string>
+    <string name="camera_imageviewer_title">Image Viewer</string>
+    <string name="camera_keep">Keep</string>
+    <string name="camera_retake">Retake</string>
+</resources>
